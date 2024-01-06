@@ -26,11 +26,11 @@
 
 ## Skills
 
-- 👾 &nbsp;Craft applications, admin panels, landing pages & multi-page sites
-- 🛠 &nbsp;Main stack is `TypeScript` + `React` + `React Query`
+- 👾 &nbsp;Craft applications
+- 🛠 &nbsp;Main stack is `Swift` + `SwiftUI` + `xCode`
 - ✅ &nbsp;Create reliable & well-functioning interfaces
 - 🏎 &nbsp;Write modern & productive code
-- 🎨 &nbsp;Create semantic, cross-browser & Pixel Perfect markup
+- 🎨 &nbsp;Create UI 
 
 <details>
   <summary>🔽 &nbsp;<strong>Details</strong></summary>
