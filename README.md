@@ -1,20 +1,15 @@
 <div align="center">
   <a href="https://michaelany.com" rel="noopener" target="_blank">
-    <img width="100" src="public/assets/logo.svg" alt="Logo" />
+    <img width="100" src="public/assets/swift.png" alt="Logo" />
   </a>
 </div>
 
-<h1 align="center">Michael Any</h1>
+<h1 align="center">Roman Holovai</h1>
 
-## Hi there! 👋 &nbsp;I'm [Michael Any][website], a Frontend Developer & Lead Software Engineer 👨‍💻
+## Hi there! 👋 &nbsp;I'm Roman Holovai, a  [junior] iOs Swift | SwiftUI developer 👨‍💻
 
-## [About](https://michaelany.com/#/about)
-
-- 👨‍🏫 &nbsp;Lead software engineer at [7 glyphs](https://7glyphs.com/)
-- 🚀 &nbsp;Create [projects](https://michaelany.com/#/portfolio) of any complexity from scratch
-- 💡 &nbsp;Bring UI/UX ideas to life
-- 💼 &nbsp;8 years of [experience](https://michaelany.com/#/experience)
-- 🇳🇿 &nbsp;Live in Auckland, New Zealand
+- 💼 &nbsp;0.5 year of experience with solo pet-projects
+- sk &nbsp;Live in NMnV, Slovakia
 
 <details>
   <summary>🔽 &nbsp;<strong>Details</strong></summary>
@@ -23,21 +18,13 @@
 - 🤓 &nbsp;Love to code
 - 🌱 &nbsp;Constantly learning
 - 📐 &nbsp;Prone to perfectionism
-- 🎓 &nbsp;Two higher educations
-- 🏃‍♂️ &nbsp;Sports lover
-- ⛰ &nbsp;Traveler
-- 👫 &nbsp;Happy husband
-- ☕️ &nbsp;Coffee lover
+- 🎓 &nbsp;Higher educations
 
 </details>&nbsp;
 
-[<img src="https://img.shields.io/badge/-Michael_Any-61DAFB?logo=google-chrome&logoColor=282828" alt="Google Chrome" />][website]
-[<img src="https://img.shields.io/badge/-LinkedIn-0a66c2?logo=linkedin&logoColor=white" alt="LinkedIn" />][linkedin]
-[<img src="https://img.shields.io/badge/-YouTube-f70000?logo=youtube&logoColor=white" alt="LinkedIn" />][youtube]
-[<img src="https://img.shields.io/badge/-Instagram-df7f57?logo=instagram&logoColor=white" alt="LinkedIn" />][instagram]
-[<img src="https://img.shields.io/badge/-7glyphs_team-acf7d0?logo=google-chrome&logoColor=282828" alt="Google Chrome" />][7glyphs]
 
-## [Skills](https://michaelany.com/#/skills)
+
+## Skills
 
 - 👾 &nbsp;Craft applications, admin panels, landing pages & multi-page sites
 - 🛠 &nbsp;Main stack is `TypeScript` + `React` + `React Query`
@@ -49,85 +36,28 @@
   <summary>🔽 &nbsp;<strong>Details</strong></summary>
 
 - 🧠 &nbsp;Choose a simple way to solve the problem
-- 🧩 &nbsp;Use a lot of patterns & techniques
-- 🧱 &nbsp;Build a modular & optimal project architecture
+- 🧩 &nbsp;Use a patterns & techniques
 - 🔧 &nbsp;Use modern frameworks, libraries, and tools
-- 📱 &nbsp;Implement responsive interface & animations
+- 📱 &nbsp;Implement responsive interface 
 - 🧹 &nbsp;Follow a consistent code style
-- 🔬 &nbsp;Refactor, optimize & test
-- 📒 &nbsp;Plan, decompose & document
-- 🐣 &nbsp;Make code reviews & teach
 
 </details>&nbsp;
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-282828?logo=javascript&logoColor=f7df1e)
-![TypeScript](https://img.shields.io/badge/-TypeScript-282828?logo=typescript&logoColor=3178c6)
-![React](https://img.shields.io/badge/-React-282828?logo=react&logoColor=61dafb)
-![React Query](https://img.shields.io/badge/-React_Query-282828?logo=reactquery&logoColor=ff4154)
-![Redux](https://img.shields.io/badge/-Redux-282828?logo=redux&logoColor=764abc)
-![HTML](https://img.shields.io/badge/-HTML-282828?logo=html5&logoColor=e34f26)
-![Pug](https://img.shields.io/badge/-Pug-282828?logo=pug&logoColor=a86454)
-![CSS](https://img.shields.io/badge/-CSS-282828?logo=css3&logoColor=1572b6)
-![Sass](https://img.shields.io/badge/-Sass-282828?logo=sass&logoColor=cc6699)
-![Material-UI](https://img.shields.io/badge/-Material_UI-282828?logo=MUI&logoColor=0081cb)
-![React Native](https://img.shields.io/badge/-React_Native-282828?logo=react&logoColor=61dafb)
-![npm](https://img.shields.io/badge/-npm-282828?logo=npm&logoColor=cc0100)
-![Markdown](https://img.shields.io/badge/-Markdown-282828?logo=markdown&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-282828?logo=node.js&logoColor=339933)
-![PHP](https://img.shields.io/badge/-PHP-282828?logo=php&logoColor=777bb4)
-![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-282828?logo=visual-studio-code&logoColor=007acc)
-![Git](https://img.shields.io/badge/-Git-282828?logo=git&logoColor=f05032)
-![Sketch](https://img.shields.io/badge/-Sketch-282828?logo=sketch&logoColor=f7b500)
-![Figma](https://img.shields.io/badge/-Figma-282828?logo=figma&logoColor=f24e1e)
-![macOS](https://img.shields.io/badge/-macOS-282828?logo=macos&logoColor=white)
+![_Swift_](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![_Apple_](https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=Apple)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
 ## [Contact](https://michaelany.com/#/contact)
 
-Do you need my **help**? Have a **suggestion** for me? Send a mail to michaelany.it@gmail.com or use links below:
+Do you need my **help**? Have a **suggestion** for me? Send a mail to romanholovai@gmail.com or use links below:
 
-[<img src="https://img.shields.io/badge/-Gmail-ea4335?logo=gmail&logoColor=white" alt="Gmail" />](mailto:michaelany.it@gmail.com)
-[<img src="https://img.shields.io/badge/-Telegram-26a5e4?logo=telegram&logoColor=white" alt="Telegram" />](https://t.me/michaelany)
-[<img src="https://img.shields.io/badge/-LinkedIn-0a66c2?logo=linkedin&logoColor=white" alt="LinkedIn" />][linkedin]
+[![_Facebook_Badge_](https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=Facebook)](https://www.facebook.com/grommys)
+[![_Telegram_Badge_](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram)](https://t.me/grommys)
+[![_LinkedIn_Badge_](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/romaholovai)
 
-## GitHub Analytics
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelany&layout=compact&theme=tokyonight" alt="GitHub Top Languages" />
-<img src="https://github-readme-stats.vercel.app/api?username=michaelany&hide=prs,issues,contribs&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-
----
-
-## About this project
-
-- 🚀 &nbsp;This project is a `SPA` (Single Page App) & `PWA` (Progressive Web App)
-- ⚙️ &nbsp;Built from scratch by `Vite` with custom adjustments
-- 🔧 &nbsp;Base dependencies: `typescript`, `react`, `react-router-dom`, `@material-ui/core`, `sass`
-- ✅ &nbsp;All `HTML` is semantic & accessible
-- 🎨 &nbsp;Styled with `BEM` React style naming convention
-- 📱 &nbsp;Responsive markup tested on every pixel of the screen width
-- 🎞 &nbsp;Uses my own scroll animation component `Animate` based on the `react-waypoint` for the `CSS` animations
-- 🇺🇸 &nbsp;Supports English & Russian languages, used `i18next` & `react-i18next`
-- 📨 &nbsp;Uses `EmailJS` & `reCaptcha` v2 to send contact form emails
-- 🗄 &nbsp;Some UI data stores in the `localStorage`
-- 🧹 &nbsp;Clean & unified code style, also use `prettier` & `eslint`
-- 🌄 &nbsp;All images optimized & ready for retina
-- 🔨 &nbsp;Base tools used: `Visual Studio Code`, `Chrome DevTools`, `Sketch`, `ImageOptim`, `macOS Ventura`
-- 💪🏻 &nbsp;Everything is done by myself: design, code, texts, integrations, deployment etc.
-- 🏎 &nbsp;Google Page Speed score `~97`:
-
-<div align="center">
-  <img src="public/assets/lighthouse-score.png" alt="Lighthouse score" width="350" />
-</div>
-
----
-
-<div align="center">
-  <img src="public/assets/preview.jpg" alt="Preview"  width="600" />
-</div>
-
-[website]: https://michaelany.com
-[linkedin]: https://www.linkedin.com/in/michaelany
-[youtube]: https://www.youtube.com/@michaelany
-[instagram]: https://instagram.com/anymichael
-[7glyphs]: https://7glyphs.com/agency/team
-[facebook]: https://www.facebook.com/michaelany.fb
-[vk]: https://vk.com/michaelany
