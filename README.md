@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://michaelany.com" rel="noopener" target="_blank">
+  <a href="https://www.linkedin.com/in/romaholovai" rel="noopener" target="_blank">
     <img width="100" src="public/assets/swift.png" alt="Logo" />
   </a>
 </div>
@@ -9,7 +9,7 @@
 ## Hi there! 👋 &nbsp;I'm Roman Holovai, a  [junior] iOs Swift | SwiftUI developer 👨‍💻
 
 - 💼 &nbsp;0.5 year of experience with solo pet-projects
-- sk &nbsp;Live in NMnV, Slovakia
+- <img width="20" src="public/assets/sk.png"/> &nbsp;Live in NMnV, Slovakia
 
 <details>
   <summary>🔽 &nbsp;<strong>Details</strong></summary>
