@@ -8,7 +8,7 @@
 
 ## Hi there! 👋 &nbsp;I'm Roman Holovai, a  [junior] iOs Swift | SwiftUI developer 👨‍💻
 
-- 💼 &nbsp;0.5 year of experience with solo pet-projects
+- 💼 &nbsp;1 year of experience with solo test-projects
 - <img width="20" src="public/assets/sk.png"/> &nbsp;Live in NMnV, Slovakia
 
 <details>
