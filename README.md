@@ -9,6 +9,7 @@
 ## Hi there! 👋 &nbsp;I'm Roman Holovai, a  [junior] iOs Swift | SwiftUI developer 👨‍💻
 
 - 💼 &nbsp;1 year of experience with solo test-projects
+- 💼 &nbsp;0.5 years of experience in team work on project under mentorship of Primoz Cuvan - Mobile Team Lead at nyra health GmbH , using git source control and Jira project tracking software.
 - <img width="20" src="public/assets/sk.png"/> &nbsp;Live in NMnV, Slovakia
 
 <details>
