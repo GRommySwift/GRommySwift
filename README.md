@@ -54,6 +54,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
+
 ## [Contact](https://michaelany.com/#/contact)
 
 Do you need to **contact me**? Have a **suggestion** for me? Send a mail to romanholovai@gmail.com or use links below:
@@ -61,4 +62,5 @@ Do you need to **contact me**? Have a **suggestion** for me? Send a mail to roma
 [![_Facebook_Badge_](https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=Facebook)](https://www.facebook.com/grommys)
 [![_Telegram_Badge_](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram)](https://t.me/grommys)
 [![_LinkedIn_Badge_](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/romaholovai)
+![](https://komarev.com/ghpvc/?username=GRommySwift)
 
