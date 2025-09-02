@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<h1 align="center">Roman Holova iOS Developer 👨‍💻 </h1>
+<h1 align="center">Roman Holovai <iOS Developer> 👨‍💻 </h1>
 
 ## ABOUT: 
 Motivated and detail-oriented iOS Developer with 1+ year of hands-on experience of developing, deploying robust native iOS applications using Swift. UIKit/SwiftUI. Skilled in creating intuitive user interfaces, integrating RESTful APIs, and optimizing performance for seamless user experiences. Experienced in working with CoreData, additional frameworks, and multithreading techniques (GCD, OperationQueue, async/await) to build efficient, scalable apps. Strong understanding of software design principles (MVC, MVVM), version control systems (Git), and the iOS Human Interface Guidelines. Proven ability to collaborate effectively in agile teams, rapidly adapt to new technologies, and deliver high-quality, maintainable code. 
