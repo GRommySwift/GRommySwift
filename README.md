@@ -15,7 +15,7 @@ Motivated and detail-oriented iOS Developer with 1+ year of hands-on experience 
 **Technologies**: `SwiftUI / UIKit`, `async / await`, `MVC/MVVM`, `Firebase` , `Alamofire`, `SwiftPM`, `GCD`, `CoreData/SwiftData`, `API/JSON`.
 
 💼 &nbsp;**HOMECLINICO(PART-TIME JOB): JUL 2024 – JUNE 2025**
-I was added to team of a MindfulMotion app - a versatile app that combines cognitive challenges with motor skills development (wrist, elbow, and the whole arm). I am working on this app with Aleksandar Milidrag (iOS Developer) and with/under mentor/lead Primoz Cuvan - Mobile Team Lead at nyra health GmbH / iOS Developer, using git source control and Jira project tracking software.
+- I was added to team of a MindfulMotion app - a versatile app that combines cognitive challenges with motor skills development (wrist, elbow, and the whole arm). I am working on this app with Aleksandar Milidrag (iOS Developer) and with/under mentor/lead Primoz Cuvan - Mobile Team Lead at nyra health GmbH / iOS Developer, using git source control and Jira project tracking software.
 My achievements:
  --  added various solutions to UI(merging two views, added and configured custom alert view etc.)
  --  added and configured remote persistance and auth service (firebase / supabase)
